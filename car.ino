@@ -1,6 +1,6 @@
 #include <Servo.h>
 #include <IRremote.h>  // 使用IRRemote函数库
-//定义五中运动状态
+//定义运动状态
 #define STOP      0
 #define FORWARD   1
 #define BACKWARD  2
